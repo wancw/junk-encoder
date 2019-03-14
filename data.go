@@ -65,6 +65,7 @@ var nouns = map[rune]string{
 	'Z': "姑媽",
 	'+': "廚師",
 	'/': "司機",
+	'=': "賭神",
 }
 
 var verbs = map[rune]string{
@@ -132,6 +133,7 @@ var verbs = map[rune]string{
 	'Z': "觀看",
 	'+': "恐嚇",
 	'/': "妄想",
+	'=': "襲擊",
 }
 
 var revNouns = map[string]rune{}
